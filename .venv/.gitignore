@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+*.spec
+*.pyc
+dist/
+build/
+__pycache__/
